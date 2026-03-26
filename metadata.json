@@ -1,0 +1,5 @@
+{
+  "name": "Ping Pong Pro Scoreboard",
+  "description": "A professional table tennis scoreboard with set tracking, service indicators, and deuce management.",
+  "requestFramePermissions": []
+}
